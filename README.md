@@ -39,4 +39,5 @@ To compile and run the program, follow these steps:
 
 1. In the directory where the files are saved, type:
 	make 
+
 This will compile all necessary files into an executable.
