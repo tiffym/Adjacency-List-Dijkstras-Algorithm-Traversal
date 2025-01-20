@@ -1,12 +1,6 @@
-# CIS2520-F24-A4
+# Adjacency List Dijsktra's Algorithm Traversal
 
-## Student Information 
-Name : Tiffany Mares
-
-Student Number : 1265498
-
-## Assignment Overview
-The assignment is about creating a program in C that works with graphs. It reads a graph from a file and represents it as an adjacency list. The program provides a menu-driven interface that allows users to interact with the graph in several ways. Users can display the graph as an adjacency list, perform Breadth-First Search (BFS) or Depth-First Search (DFS) to explore its structure, and use Dijkstra's algorithm to find the shortest path from a starting vertex to all other vertices.
+This is a program in C that works with graphs. It reads a graph from a file and represents it as an adjacency list. The program provides a menu-driven interface that allows users to interact with the graph in several ways. Users can display the graph as an adjacency list, perform Breadth-First Search (BFS) or Depth-First Search (DFS) to explore its structure, and use Dijkstra's algorithm to find the shortest path from a starting vertex to all other vertices.
 
 ## Skill Focus
 - **Graph Theory**: Understanding graph representations (Adjacency Matrix, Adjacency List).
@@ -43,15 +37,6 @@ The project consists of the following files:
 ## Compiling the program
 To compile and run the program, follow these steps:
 
-1. In the directory where the assignment files are saved, type:
+1. In the directory where the files are saved, type:
 	make 
 This will compile all necessary files into an executable.
-
-2. To run the program type:
-`./a4 example-graph.txt`
-
-## Resources 
-Did you use any resources (for example book, notes etc) in this assignment?
-
-## Implementation
-The assignment is complete.
